@@ -5,7 +5,10 @@ Jump Over is a very simple mouse-click game.
 
 Summary
 
-Players press and loosen the left mouse. The ball will bounce over a distance which is determined by how long players hold the left mouse for. The ball will be placed on a square at the beginning. Then, there will a new square coming out as the ball jumping forward. The distance between each square is random.
+There are four vertical tracks. There are two balls. At the beginning, one will be placed on second track. The other will be placed on the third one. There will be innumerable squares coming down from the top through every track randomly. In order to avoid the squares. Players press F to move the left ball to the first track and J to move the right ball to the 4th track. Every second offers players one point. If either of the balls hits a square, GAME OVER!
+
+
+
 
 Component Parts
 
